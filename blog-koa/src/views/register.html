@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <h2>hello world!</h2>
+    <form class="form-horizontal" role="form" action="/login" method="POST">
+        <div class="form-group">
+            <label for="username" class="col-sm-2 control-label">名字</label>
+            <div class="col-sm-3">
+                <input type="text" class="form-control" id="username" placeholder="请输入名字">
+            </div>
+        </div>
+        <div class="form-group">
+            <label for="password" class="col-sm-2 control-label">密码</label>
+            <div class="col-sm-3">
+                <input type="password" class="form-control" id="password" placeholder="请输入密码">
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-6">
+                <button type="submit" id='submit' class="btn btn-default">注册</button>
+            </div>
+        </div>
+        <table class="table">
+            <caption>上下文表格布局</caption>
+            <thead>
+                <tr>
+                    <th>账号</th>
+                    <th>密码</th>
+                    <th>状态</th>
+                </tr>
+            </thead>
+            <tbody id="tbody">
+            </tbody>
+        </table>
+    </form>
+</body>
+<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script>
+$(function() {
+    getData()
+    $('#submit').click(function(e) {
+        e.preventDefault()
+        $.ajax({
+            url: "/register",
+            type: 'POST',
+            dataType: 'json',
+            data: {
+                username: $('#username').val(),
+                password: $('#password').val(),
+            },
+            success: function(res) {
+                getData()
+                if (res.status === 1) {
+                    location.href = '/login.html'
+                }
+            },
+
+        });
+    })
+
+    function getData() {
+        $.ajax({
+            url: "/login",
+            type: 'GET',
+            success: function(res) {
+                if (res.status === 1) {
+                    const result = res.result
+                    let list = ''
+                    result.forEach((item) => {
+                        list += `<tr class="active">
+                    <td>${item.username}</td>
+                    <td>${item.password}</td>
+                    <td>${item.create_time}</td>
+                </tr>`
+                    })
+                    console.log(list)
+                    $('#tbody').html(list)
+                }
+            },
+
+        });
+    }
+})
+</script>
+
+</html>

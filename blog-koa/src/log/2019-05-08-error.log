@@ -1,0 +1,2530 @@
+2019-05-08 10:19:03.265 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 1193
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 10:19:03.265
+
+2019-05-08 11:00:53.816 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 3828
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:00:53.816
+
+2019-05-08 11:00:55.822 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 3830
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:00:55.822
+
+2019-05-08 11:05:42.562 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 3889
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:05:42.562
+
+2019-05-08 11:07:17.733 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 3896
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:07:17.733
+
+2019-05-08 11:09:21.042 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 3907
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:09:21.042
+
+2019-05-08 11:09:45.086 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 3910
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:09:45.086
+
+2019-05-08 11:11:36.325 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 3918
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:11:36.325
+
+2019-05-08 11:11:52.325 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 3922
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:11:52.325
+
+2019-05-08 11:12:39.468 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 3930
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:12:39.468
+
+2019-05-08 11:12:45.447 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 3932
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:12:45.447
+
+2019-05-08 11:27:42.022 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4064
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:27:42.022
+
+2019-05-08 11:28:54.246 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4070
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:28:54.246
+
+2019-05-08 11:29:13.333 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4073
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:29:13.333
+
+2019-05-08 11:30:07.459 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4078
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:30:07.459
+
+2019-05-08 11:31:44.687 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4085
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:31:44.687
+
+2019-05-08 11:32:24.754 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4087
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:32:24.754
+
+2019-05-08 11:33:20.923 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4090
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:33:20.923
+
+2019-05-08 11:33:26.912 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4093
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:33:26.912
+
+2019-05-08 11:34:44.164 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4096
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:34:44.164
+
+2019-05-08 11:35:52.344 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4101
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:35:52.344
+
+2019-05-08 11:36:03.395 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4103
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:36:03.395
+
+2019-05-08 11:36:08.393 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4106
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:36:08.393
+
+2019-05-08 11:36:16.464 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4108
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:36:16.464
+
+2019-05-08 11:38:27.739 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4116
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:38:27.739
+
+2019-05-08 11:38:46.776 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4118
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:38:46.776
+
+2019-05-08 11:39:31.902 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4121
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:39:31.902
+
+2019-05-08 11:41:06.293 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4126
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:41:06.293
+
+2019-05-08 11:41:30.237 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4128
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:41:30.237
+
+2019-05-08 11:42:43.423 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4132
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:42:43.423
+
+2019-05-08 11:43:25.539 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4137
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:43:25.539
+
+2019-05-08 11:45:20.816 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4142
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:45:20.816
+
+2019-05-08 11:46:36.002 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4145
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:46:36.002
+
+2019-05-08 11:46:47.025 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4150
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:46:47.025
+
+2019-05-08 11:48:43.321 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4160
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:48:43.321
+
+2019-05-08 11:49:38.482 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4166
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 11:49:38.482
+
+2019-05-08 12:32:23.155 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4201
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:32:23.155
+
+2019-05-08 12:32:40.233 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4203
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:32:40.233
+
+2019-05-08 12:32:46.259 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4205
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:32:46.259
+
+2019-05-08 12:33:10.275 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4207
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:33:10.275
+
+2019-05-08 12:35:54.810 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4313
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:35:54.810
+
+2019-05-08 12:36:31.079 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4316
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:36:31.079
+
+2019-05-08 12:37:12.136 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4319
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:37:12.136
+
+2019-05-08 12:37:24.224 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4322
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:37:24.224
+
+2019-05-08 12:37:27.220 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4324
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:37:27.220
+
+2019-05-08 12:37:56.292 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4327
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:37:56.292
+
+2019-05-08 12:38:55.451 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4330
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:38:55.451
+
+2019-05-08 12:39:06.510 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4332
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:39:06.510
+
+2019-05-08 12:44:44.378 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4351
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:44:44.378
+
+2019-05-08 12:45:56.586 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4355
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:45:56.586
+
+2019-05-08 12:46:22.641 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4358
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:46:22.641
+
+2019-05-08 12:49:18.153 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4366
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:49:18.153
+
+2019-05-08 12:49:29.185 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4368
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:49:29.185
+
+2019-05-08 12:50:09.332 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4370
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:50:09.332
+
+2019-05-08 12:50:38.465 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4372
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:50:38.465
+
+2019-05-08 12:51:12.531 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4375
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:51:12.531
+
+2019-05-08 12:52:02.650 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4378
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:52:02.650
+
+2019-05-08 12:52:18.693 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4381
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 12:52:18.693
+
+2019-05-08 14:13:03.755 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4516
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:13:03.755
+
+2019-05-08 14:30:22.254 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4622
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:30:22.254
+
+2019-05-08 14:30:25.270 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4625
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:30:25.270
+
+2019-05-08 14:33:17.680 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4793
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:33:17.680
+
+2019-05-08 14:33:33.679 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4797
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:33:33.679
+
+2019-05-08 14:36:24.176 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4809
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:36:24.176
+
+2019-05-08 14:36:35.233 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4811
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:36:35.233
+
+2019-05-08 14:37:07.322 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4815
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:37:07.322
+
+2019-05-08 14:38:14.499 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4817
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:38:14.499
+
+2019-05-08 14:39:01.654 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4821
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:39:01.654
+
+2019-05-08 14:39:16.723 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4824
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:39:16.723
+
+2019-05-08 14:39:28.715 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4826
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:39:28.715
+
+2019-05-08 14:39:46.757 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4828
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:39:46.757
+
+2019-05-08 14:40:23.977 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4831
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:40:23.977
+
+2019-05-08 14:40:34.993 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4834
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:40:34.993
+
+2019-05-08 14:42:00.151 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4836
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:42:00.151
+
+2019-05-08 14:42:09.218 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4838
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:42:09.218
+
+2019-05-08 14:42:26.329 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4840
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:42:26.329
+
+2019-05-08 14:43:01.447 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4844
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:43:01.447
+
+2019-05-08 14:43:50.545 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4878
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:43:50.545
+
+2019-05-08 14:44:49.726 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4881
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:44:49.726
+
+2019-05-08 14:45:13.786 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4884
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:45:13.786
+
+2019-05-08 14:46:30.938 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4888
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:46:30.938
+
+2019-05-08 14:53:22.924 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4979
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:53:22.924
+
+2019-05-08 14:58:07.685 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4988
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:58:07.685
+
+2019-05-08 14:59:02.919 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4990
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:59:02.919
+
+2019-05-08 14:59:28.922 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4992
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 14:59:28.922
+
+2019-05-08 15:01:46.243 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 4997
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 15:01:46.243
+
+2019-05-08 15:03:32.466 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 5008
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 15:03:32.466
+
+2019-05-08 15:06:02.891 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 5016
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 15:06:02.891
+
+2019-05-08 15:06:34.941 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 5020
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 15:06:34.941
+
+2019-05-08 15:06:49.986 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 5022
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 15:06:49.986
+
+2019-05-08 15:07:24.095 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 5024
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 15:07:24.095
+
+2019-05-08 15:07:41.159 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 5026
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 15:07:41.159
+
+2019-05-08 15:08:57.302 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 5028
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 15:08:57.302
+
+2019-05-08 15:10:00.479 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 5032
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 15:10:00.479
+
+2019-05-08 15:10:49.588 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 5037
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 15:10:49.588
+
+2019-05-08 18:00:18.692 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 6615
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:00:18.692
+
+2019-05-08 18:01:47.291 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 6626
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:01:47.291
+
+2019-05-08 18:05:43.257 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 6678
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:05:43.257
+
+2019-05-08 18:07:40.928 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 6689
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:07:40.928
+
+2019-05-08 18:09:57.755 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 6699
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:09:57.755
+
+2019-05-08 18:11:12.732 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 6708
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:11:12.732
+
+2019-05-08 18:12:49.926 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 6754
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:12:49.926
+
+2019-05-08 18:15:56.027 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 6817
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:15:56.027
+
+2019-05-08 18:16:29.959 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 6834
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:16:29.959
+
+2019-05-08 18:17:08.748 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 6875
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:17:08.748
+
+2019-05-08 18:17:31.919 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 6882
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:17:31.919
+
+2019-05-08 18:19:47.110 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 7267
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:19:47.110
+
+2019-05-08 18:28:41.272 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 7353
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:28:41.272
+
+2019-05-08 18:33:48.813 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 7431
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:33:48.813
+
+2019-05-08 18:36:44.631 nodejs.ErrorException: Error: error
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/bin/app.js:41:14)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at loader (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:144:5)
+    at Object.require.extensions.(anonymous function) [as .js] (/Users/wangmeng/Desktop/koa/easy----koa/node_modules/babel-register/lib/node.js:154:7)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/easy----koa/index.js:2:1)
+    at Module._compile (internal/modules/cjs/loader.js:698:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:754:12)
+pid: 7500
+Host: biubiubiu.local
+URL: 
+Data: ''
+2019-05-08 18:36:44.631
+

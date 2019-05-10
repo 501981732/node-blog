@@ -25,7 +25,24 @@ const getDetail = id => {
         author: '王猛'
     }
 }
+//新建博客创建的id
+const newBlog = (blogData = {}) => {
+    return {
+        id: 3,//博客插入sql位置
+    }
+}
+
+const updataBlog = (id, blogData ={}) => {
+    return true
+}
+
+const deleteBlog = id => {
+    return true
+}
 module.exports = {
     getList,
-    getDetail
+    getDetail,
+    newBlog,
+    updataBlog,
+    deleteBlog
 }

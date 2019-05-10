@@ -1,5 +1,5 @@
 const {SuccessModule,ErrorModule} = require('./../module/responseModule')
-const {getList,getDetail} = require('./../controller/blog')
+const {getList,getDetail,newBlog,updataBlog,deleteBlog} = require('./../controller/blog')
 
 const handleBlog = ((req,res) => {
     const {method, url,} = req
@@ -18,18 +18,22 @@ const handleBlog = ((req,res) => {
     }
     if (method === 'POST' && path === '/api/blog/new') {
         console.log(req.body)
-        return {
-            msg: '新建博客接口'
-        }
+        return new SuccessModule(newBlog(req.body))
     }
     if (method === 'POST' && path === '/api/blog/update') {
-        return {
-            msg: '更新博客接口'
+        const result = updataBlog(req.query.id,req.body)
+        if (result) {
+            return new SuccessModule(result)
+        } else {
+            return new ErrorModule(false)
         }
     }
     if (method === 'POST' && path === '/api/blog/delete') {
-        return {
-            msg: '删除博客接口'
+        const result = deleteBlog(req.query.id)
+        if (result) {
+            return new SuccessModule(result,'删除成功')
+        } else {
+            return new ErrorModule(false,'删除失败')
         }
     }
 

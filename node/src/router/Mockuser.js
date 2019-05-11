@@ -1,5 +1,5 @@
-const {SuccessModel,ErrorModel} = require('../model/responseModel')
-const {login} = require('./../controller/login')
+const {SuccessModule,ErrorModule} = require('./../module/responseModule')
+const {login} = require('./../controller/Mocklogin')
 const userHandle = (req,res) => {
     const {method, url} = req
     const query = url.split('?')[1]
@@ -8,9 +8,9 @@ const userHandle = (req,res) => {
         const {username, password} = req.body
         let result = login(username,password)
         if (result) {
-            return new SuccessModel(result,'登录成功')
+            return new SuccessModule(result,'登录成功')
         } else {
-            return new ErrorModel(result,'登录失败')
+            return new ErrorModule(result,'登录失败')
         }
     }
 }

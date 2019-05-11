@@ -1,48 +1,72 @@
+const exec = require('./../db/mysql.js')
+
 const getList = (author,keywords) => {
-    return [
-        {
-            id: 1,
-            title: '标题1',
-            content: '内容1',
-            createTime: 1557399988587,
-            author: '王猛'
-        },
-        {
-            id: 2,
-            title: '标题2',
-            content: '内容2',
-            createTime: 1557399988587,
-            author: '吴岑'
-        }
-    ]
-}
-const getDetail = id => {
-    return {
-        id: 1,
-        title: '标题1',
-        content: '内容1',
-        createTime: 1557399988587,
-        author: '王猛'
+    //黑科技 1=1
+    let sql = `select * from blogs where 1=1 `
+    if (author) {
+        sql += `and author='${author}'`
+    } 
+    if (keywords) {
+        sql += `and keyworks=‘%${keywords}%’`
     }
+    sql+=`order by createtime DESC`
+    return exec(sql)
+}
+
+//获取博客数据
+const getDetail = id => {
+    const sql = `select * from blogs where id='${id}'`
+    //返回的是数组 去掉数字
+    return exec(sql).then(rows => {
+        return rows[0]
+    })
 }
 //新建博客创建的id
 const newBlog = (blogData = {}) => {
-    return {
-        id: 3,//博客插入sql位置
-    }
+    const {author, title, content} = blogData
+    const createtime = Date.now()
+    const sql = `insert blogs (title,content,author,createtime) VALUES('${title}','${content}','${author}',${createtime})`
+    return exec(sql).then(insertData => {
+        return {
+            id: insertData.insertId //博客插入sql位置
+        }
+    })
 }
 
-const updataBlog = (id, blogData ={}) => {
-    return true
+//更新博客信息
+const updateBlog = (id, blogData ={}) => {
+    const {title, content} = blogData
+    const createtime = Date.now()   
+    const sql = `update blogs set title='${title}', content='${content}' where id=${id}`
+    return exec(sql).then(data => {
+        if (data.affectedRows >0) {
+            return true
+        }
+        return false
+    })
+
 }
 
-const deleteBlog = id => {
-    return true
+
+// 删除博客信息
+const deleteBlog = (id,blogData) => {
+    const {author} = blogData
+    const createtime = Date.now()   
+    // 业务删除
+    //const sql = `delete from blogs where id='${id}' and author='${author}';`
+    // 软删除
+    const sql = `update blogs set status=0 where id=${id} and author='${author}'`
+    return exec(sql).then(data => {
+        if (data.affectedRows >0) {
+            return true
+        }
+        return false
+    })
 }
 module.exports = {
     getList,
     getDetail,
     newBlog,
-    updataBlog,
+    updateBlog,
     deleteBlog
 }

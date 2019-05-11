@@ -1,6 +1,7 @@
-const {SuccessModule,ErrorModule} = require('./../module/responseModule')
-const {getList,getDetail,newBlog,updataBlog,deleteBlog} = require('./../controller/blog')
+const {SuccessModel,ErrorModel} = require('./../model/responseModel')
+const {getList,getDetail,newBlog,updateBlog,deleteBlog} = require('./../controller/blog')
 
+//返回promise
 const handleBlog = ((req,res) => {
     const {method, url,} = req
     const path = url.split('?')[0]
@@ -9,32 +10,48 @@ const handleBlog = ((req,res) => {
             author = '',
             keywords = '',
         } = req.query
-        const listData = getList(author,keywords)
-        return new SuccessModule(listData)
+        //返回promise
+        return getList(author,keywords).then(listData => {
+            if (listData) {
+                return new SuccessModel(listData)
+            }
+        }) 
     }
     if (method === 'GET' && path === '/api/blog/detail') {
         const {id} = req.query
-        return new SuccessModule(getDetail(id))
+        return getDetail(id).then(data => {
+            if (data) {
+                return new SuccessModel(data)
+            } else {
+                return new ErrorModel('查询失败')
+            }
+        })
     }
     if (method === 'POST' && path === '/api/blog/new') {
-        console.log(req.body)
-        return new SuccessModule(newBlog(req.body))
+        // 默认会带博客作者
+        req.body.author = 'wangmeng'
+        return newBlog(req.body).then(data => {
+            return new SuccessModel(data)
+        })
     }
     if (method === 'POST' && path === '/api/blog/update') {
-        const result = updataBlog(req.query.id,req.body)
-        if (result) {
-            return new SuccessModule(result)
-        } else {
-            return new ErrorModule(false)
-        }
+        return updateBlog(req.query.id,req.body).then(val => {
+            if (val) {
+                return new SuccessModel(val,'更新成功')
+            } else {
+                return new ErrorModel(val,'更新失败')
+            }
+        })
     }
     if (method === 'POST' && path === '/api/blog/delete') {
-        const result = deleteBlog(req.query.id)
-        if (result) {
-            return new SuccessModule(result,'删除成功')
-        } else {
-            return new ErrorModule(false,'删除失败')
-        }
+        req.body.author = 'wangmeng'
+        return deleteBlog(req.query.id,req.body).then(val => {
+            if (val) {
+                return new SuccessModel(val,'删除成功')
+            } else {
+                return new ErrorModel(val,'删除失败')
+            }
+        })
     }
 
 })

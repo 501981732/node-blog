@@ -1,7 +1,7 @@
 const http = require('http')
 
-const userHandle = require('./../src/router/user')
-const blogHandle = require('./../src/router/blog')
+const userHandle = require('./../src/router/Mockuser')
+const blogHandle = require('./../src/router/Mockblog')
 const querystring = require('querystring')
 const server = http.createServer((req, res) => {
     serverHandle(req, res)
@@ -14,28 +14,23 @@ const serverHandle = (req, res) => {
     res.setHeader('Content-Type', 'application/json')
     getPostData(req).then(data => {
         req.body = data
-        // 手动处理路由 路由返回的是promise
-        const blogResult = blogHandle(req, res)
-        const userResult = userHandle(req, res)
-        if (blogResult) {
-            blogResult.then(blog => {
-                res.end(
-                    JSON.stringify(blog)
-                )
-                return
-            })
-        }  
-        if (userResult) {
-            userResult.then(user => {
-                res.end(
-                    JSON.stringify(user)
-                )
-                return
-            })
+        // 手动处理路由
+        const blog = blogHandle(req, res)
+        const user = userHandle(req, res)
+        if (blog) {
+            res.end(
+                JSON.stringify(blog)
+            )
+            return
+        } else if (user) {
+            res.end(
+                JSON.stringify(user)
+            )
+            return
         }
-        // res.writeHead(404, { 'Conttype-Type': 'text/plain' })
-        // res.write('404 Not Found')
-        // res.end()
+        res.writeHead(404, { 'Conttype-Type': 'text/plain' })
+        res.write('404 Not Found')
+        res.end()
     })
 }
 

@@ -1,4 +1,4 @@
-class BaseModule {
+class BaseModel {
     constructor(data, message) {
         if (typeof data === 'string') {
             this.message = data
@@ -11,7 +11,7 @@ class BaseModule {
     }
 }
 
-class SuccessModule extends BaseModule {
+class SuccessModel extends BaseModel {
     constructor(data, message = '成功' ) {
         super(data,message)
         this.state = 0
@@ -19,7 +19,7 @@ class SuccessModule extends BaseModule {
 }
 
 
-class ErrorModule extends BaseModule {
+class ErrorModel extends BaseModel {
     constructor(data,message = '失败' ) {
         super(data, message)
         this.state = -1
@@ -27,6 +27,6 @@ class ErrorModule extends BaseModule {
 }
 
 module.exports = {
-    SuccessModule,
-    ErrorModule
+    SuccessModel,
+    ErrorModel
 }

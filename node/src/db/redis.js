@@ -1,7 +1,7 @@
 const redis = require('redis');
 const CONFIG = require('./../config/index.js');
 const client = redis.createClient(CONFIG.REDIS.port,CONFIG.REDIS.host)
-
+console.log('------------redis----------')
 client.on('error', err => {
     console.error("redis error", err)
 })

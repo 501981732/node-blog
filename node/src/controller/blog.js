@@ -1,13 +1,13 @@
-const exec = require('./../db/mysql.js')
+const {exec, escape} = require('./../db/mysql.js')
 
 const getList = (author,keywords) => {
     //黑科技 1=1
     let sql = `select * from blogs where 1=1`
     if (author) {
-        sql += ` and author='${author}'`
+        sql += ` and author=${escape(author)}`
     } 
     if (keywords) {
-        sql += ` and title like '%${keywords}%'`
+        sql += ` and title like %${escape(keywords)}%`
     }
     sql+=` and status=1 order by createtime DESC`
     return exec(sql)
@@ -25,7 +25,7 @@ const getDetail = id => {
 const newBlog = (blogData = {}) => {
     const {author, title, content} = blogData
     const createtime = Date.now()
-    const sql = `insert blogs (title,content,author,createtime) VALUES('${title}','${content}','${author}',${createtime})`
+    const sql = `insert blogs (title,content,author,createtime) VALUES(${escape(title)},${escape(content)},${escape(author)},${createtime})`
     return exec(sql).then(insertData => {
         return {
             id: insertData.insertId //博客插入sql位置
@@ -37,7 +37,7 @@ const newBlog = (blogData = {}) => {
 const updateBlog = (id, blogData ={}) => {
     const {title, content} = blogData
     const createtime = Date.now()   
-    const sql = `update blogs set title='${title}', content='${content}' where id=${id}`
+    const sql = `update blogs set title=${escape(title)}, content=${escape(content)} where id=${id}`
     return exec(sql).then(data => {
         if (data.affectedRows >0) {
             return true
@@ -55,7 +55,7 @@ const deleteBlog = (id,blogData) => {
     // 业务删除
     //const sql = `delete from blogs where id='${id}' and author='${author}';`
     // 软删除
-    const sql = `update blogs set status=0 where id=${id} and author='${author}'`
+    const sql = `update blogs set status=0 where id=${id} and author=${escape(author)}`
     return exec(sql).then(data => {
         if (data.affectedRows >0) {
             return true

@@ -73,6 +73,45 @@
 
 ###日志
 
+- 没有日志 就没有眼睛
+- 峰值QPS (每秒访问量)/bug/
+- 5W1H 谁 在哪里 合适 用什么访问
+
+- 访问日志： accets.log （server最重要的日志）
+- 自定义日志： 自定义事件、错误日志
+
+- 节省CPU 内存 利用stream 流
+- 日志文件太大(可能一天几个G)，且对性能要求不高，不适合放到redis ,没有表结构/
+
+#### 日志拆分
+- crontab定时任务
+- linux定时任务格式：  ***** command:  分钟/小时/号/月份/星期几  命令
+- 定时将access.log拷贝为 2019-05-05.access.log
+- 将access.log 清空 重新记录
+  
+- crontab -e    输入 * 0 * * * /Users/wangmeng/Desktop/koa/blog/node/logs/copy.sh 每天凌晨触发sh脚本
+- crontab -l 查看定时任务
+
+#### 日志分析
+- nodejs的readline （基于stream,高效） 逐行读取
+
+- I/O操作性能瓶颈 网络I/O和文件I/O
+- process.stdin.pipe(process.stdout) // pipe：管道  process.stdin获取数据，通过管道传递给process.stdout
+
+
+
+### 安全
+
+- sql注入 窃取数据库内容
+    - 输入sql片段，最终拼接成一段攻击代码
+    - select username, realname from users where username='wangmeng'-- ' and password='123456'; 输入wangmeng'   --  免密码登录
+    - select username, realname from users where username='wangmeng';delete * from user;-- ' and password='123456'  -- 删除数据
+    - 解决方案：escape函数处理输入内容
+- xss攻击 窃取cookie等信息
+    - 
+- 密码加密 保证用户信息安全
+- DDOS攻击 需要硬件或者服务来支持（OP）
+
 - 两端登录/判断登录
 - 两端简历投递
 - 两端分享

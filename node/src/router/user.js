@@ -1,5 +1,6 @@
 const {SuccessModel,ErrorModel} = require('../model/responseModel')
 const {login} = require('./../controller/login')
+const { set_redis} = require('./../db/redis')
 const userHandle = (req,res) => {
     const {method, url} = req
     const query = url.split('?')[1]
@@ -14,6 +15,8 @@ const userHandle = (req,res) => {
                 //设置session
                 req.session.username = data.username
                 req.session.realname = data.realname
+                // 同步到 redis
+                set_redis(req.sessionId, req.session)
                 return new SuccessModel()
             }
             return new ErrorModel('登录失败')

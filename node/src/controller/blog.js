@@ -2,14 +2,14 @@ const exec = require('./../db/mysql.js')
 
 const getList = (author,keywords) => {
     //黑科技 1=1
-    let sql = `select * from blogs where 1=1 `
+    let sql = `select * from blogs where 1=1`
     if (author) {
-        sql += `and author='${author}'`
+        sql += ` and author='${author}'`
     } 
     if (keywords) {
-        sql += `and keyworks=‘%${keywords}%’`
+        sql += ` and title like '%${keywords}%'`
     }
-    sql+=`order by createtime DESC`
+    sql+=` and status=1 order by createtime DESC`
     return exec(sql)
 }
 

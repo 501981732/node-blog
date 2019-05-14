@@ -8,6 +8,10 @@ if (env === 'development') {
             user: 'root',
             password: '123456',
             database: 'myblog'
+        },
+        REDIS: {
+            host: '6379',
+            host: '127.0.0.1'
         }
     }
 } else if (env === 'production') {
@@ -24,6 +28,10 @@ if (env === 'development') {
             user: 'root',
             password: '123456',
             database: 'myblog'
+        },
+        REDIS: {
+            host: '6379',
+            host: '127.0.0.1'
         }
     }
 }

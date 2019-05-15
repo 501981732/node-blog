@@ -1,5 +1,5 @@
 const {SuccessModel,ErrorModel} = require('../model/responseModel')
-const {login} = require('./../controller/login')
+const {login,register} = require('./../controller/login')
 const { set_redis} = require('./../db/redis')
 const userHandle = (req,res) => {
     const {method, url} = req
@@ -35,6 +35,16 @@ const userHandle = (req,res) => {
     //         new ErrorModel('尚未登录')
     //     )
     // }
+    if (method === 'POST' && path === '/api/user/register') {
+        const {username, password} = req.body
+        return register(username,password).then(data => {
+            if (data.id) {
+                return new SuccessModel(data.msg)
+            }
+            return new ErrorModel(data.msg)
+
+        })
+    }  
 }
 
 module.exports = userHandle

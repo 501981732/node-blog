@@ -1,5 +1,5 @@
 const {exec, escape} = require('./../db/mysql.js')
-
+const xss = require('xss')
 const getList = (author,keywords) => {
     //黑科技 1=1
     let sql = `select * from blogs where 1=1`
@@ -7,7 +7,8 @@ const getList = (author,keywords) => {
         sql += ` and author=${escape(author)}`
     } 
     if (keywords) {
-        sql += ` and title like %${escape(keywords)}%`
+        // keywords = escape(keywords)
+        sql += ` and title like '%${keywords}%'`
     }
     sql+=` and status=1 order by createtime DESC`
     return exec(sql)
@@ -23,7 +24,9 @@ const getDetail = id => {
 }
 //新建博客创建的id
 const newBlog = (blogData = {}) => {
-    const {author, title, content} = blogData
+    let {author, title, content} = blogData
+    title = xss(title)
+    content = xss(content)
     const createtime = Date.now()
     const sql = `insert blogs (title,content,author,createtime) VALUES(${escape(title)},${escape(content)},${escape(author)},${createtime})`
     return exec(sql).then(insertData => {
@@ -35,7 +38,9 @@ const newBlog = (blogData = {}) => {
 
 //更新博客信息
 const updateBlog = (id, blogData ={}) => {
-    const {title, content} = blogData
+    let {title, content} = blogData
+    title = xss(title)
+    content = xss(content)
     const createtime = Date.now()   
     const sql = `update blogs set title=${escape(title)}, content=${escape(content)} where id=${id}`
     return exec(sql).then(data => {

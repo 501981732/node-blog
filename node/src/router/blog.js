@@ -14,7 +14,6 @@ const handleBlog = ((req,res) => {
         } = req.query
         //自己的管理界面
         if (req.query.isadmin) {
-            console.log(111)
             //登录验证
             let loginResult = loginCheck(req);
             //未登录时 返回promise

@@ -5,15 +5,13 @@
 - cross-env 跨平台设置环境变量
 - supervisor 开发调试
 - pm2 上线
+- 手写router req.body req.session res.cookie
 
-
-
+### mysql 
 - 改为sql之后 db,返回promise => controller用db也返回primise, router用controller也返回promise, app处理router，处理promise
-  
-- 链接mysql数据库错误 https://blog.csdn.net/sufubo/article/details/82945318
+- 链接mysql数据库错误  https://blog.csdn.net/sufubo/article/details/82945318 mysql版本较高，最新的加密方式node还不支持
 - NODE_ENV区分配置 测试，生产
-- 封装exec promise mysql
-
+- 封装exec promise话 mysql操作
 
 ### 登录
 
@@ -45,12 +43,13 @@
 - 高性能的 Web/反向代理服务器
 - 一般用来做静态服务/负载均衡/反向代理
     - 测试ngnix  -t  
-    - 启动nginx; nginx -s reload;重新载入配置文件
+    - 启动nginx; 
+    - nginx -s reload;重新载入配置文件
     - 停止nginx -s stop
-
 - 登录功能依赖cookie, but cookie跨域不共享, 若端口不一致则会跨域  
 - 解决方案： nginx反向代理
 - 同域联调
+
     server {
         listen 8080;
         server_name localhost;
@@ -62,7 +61,6 @@
             proxy_set_header Host $host;
         }
     }
-
 
 
 
@@ -106,9 +104,10 @@
     - 输入sql片段，最终拼接成一段攻击代码
     - select username, realname from users where username='wangmeng'-- ' and password='123456'; 输入wangmeng'   --  免密码登录
     - select username, realname from users where username='wangmeng';delete * from user;-- ' and password='123456'  -- 删除数据
-    - 解决方案：escape函数处理输入内容
+    - 解决方案：escape函数处理输入内容 
 - xss攻击 窃取cookie等信息
-    - 
+    - 在页面展示内容中掺杂js代码，用户的输入没有被转义，被直接执行 比如留言区域 写个<script>alert(’wm最帅‘)</script>
+    - 解决方案：转换js的特殊字符 < >等   xss库
 - 密码加密 保证用户信息安全
 - DDOS攻击 需要硬件或者服务来支持（OP）
 

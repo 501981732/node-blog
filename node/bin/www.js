@@ -67,7 +67,7 @@ const serverHandle = (req, res) => {
         set_redis(userId,{})
     } 
     req.sessionId = userId
-
+    //redis取值异步 so promise链式调用
     get_redis(req.sessionId).then(sessionData => {
         if (sessionData === null) {
             set_redis(req.sessionId,{}) //初始化redis中的session

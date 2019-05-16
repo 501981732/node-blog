@@ -1,6 +1,6 @@
-### node从零出发
+## node 不依赖框架从零出发
 
-#### 用原生node 一步步实现一个博客后台，然后用 express, koa分别重构
+### 用原生node 一步步实现一个博客后台，然后用 express, koa分别重构
 
 - cross-env 跨平台设置环境变量
 - supervisor 开发调试
@@ -8,6 +8,7 @@
 - 手写router req.body req.session res.cookie
 
 ### mysql 
+
 - 改为sql之后 db,返回promise => controller用db也返回primise, router用controller也返回promise, app处理router，处理promise
 - 链接mysql数据库错误  https://blog.csdn.net/sufubo/article/details/82945318 mysql版本较高，最新的加密方式node还不支持
 - NODE_ENV区分配置 测试，生产
@@ -37,7 +38,11 @@
 - redis 内存数据库 / mysql是硬盘数据库
 - session 访问频繁，对性能要求极高 /可以不考虑断点丢失问题/数据量不会很大 很适合redis
 - redi 链接失败 shttps://stackoverflow.com/questions/41427756/error-redis-connection-to-127-0-0-16379-failed-connect-econnrefused-127-0-0
-- redis-server
+- redis-server 启动
+- redis-cli 
+- keys *
+- flushall 清空
+
 #### nginx 反向代理 联调
 
 - 高性能的 Web/反向代理服务器
@@ -61,12 +66,6 @@
             proxy_set_header Host $host;
         }
     }
-
-
-
-
-- web server -- mysql
-- web server -- redis
 
 
 ###日志
@@ -96,8 +95,6 @@
 - I/O操作性能瓶颈 网络I/O和文件I/O
 - process.stdin.pipe(process.stdout) // pipe：管道  process.stdin获取数据，通过管道传递给process.stdout
 
-
-
 ### 安全
 
 - sql注入 窃取数据库内容
@@ -110,6 +107,8 @@
     - 解决方案：转换js的特殊字符 < >等   xss库
 - 密码加密 保证用户信息安全
 - DDOS攻击 需要硬件或者服务来支持（OP）
+
+
 
 - 两端登录/判断登录
 - 两端简历投递

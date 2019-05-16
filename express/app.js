@@ -31,7 +31,18 @@ app.set('view engine', 'ejs');
 // app.set('view engine','html')
 
 
-app.use(logger('dev'));
+const ENV = process.env.NODE_ENV
+if (ENV !== 'production') {
+  app.use(logger('dev'));
+} else {
+  const logFileName = path.join(__dirname, 'logs', 'access.log')
+  const writeStream = fs.createWriteStream(logFileName, {
+    flags: 'a'
+  }) //可写stream流
+  app.use(logger('combined', {
+    stream: writeStream
+  }));
+}
 
 app.use(express.json()); // post 处理body req.body
 app.use(express.urlencoded({ extended: false }));

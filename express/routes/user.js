@@ -1,12 +1,11 @@
 var express = require('express');
 var router = express.Router();
-const {SuccessModel,ErrorModel} = require('../model/responseModel')
-const {login,register} = require('./../controller/user')
-const s = require('./../controller/user')
+const { SuccessModel, ErrorModel } = require('../model/responseModel')
+const { login, register } = require('./../controller/user')
 
 router.post('/login', function(req, res, next) {
-    const {username, password} = req.body
-    return login(username,password).then(data => {
+    const { username, password } = req.body
+    return login(username, password).then(data => {
         if (data.username) {
             //设置session
             req.session.username = data.username
@@ -24,7 +23,15 @@ router.post('/login', function(req, res, next) {
     })
 });
 
-
+router.post('/register', function(req, res, next) {
+    const { username, password } = req.body
+    return register(username, password).then(data => {
+        if (data.id) {
+            return new SuccessModel(data.msg)
+        }
+        return new ErrorModel(data.msg)
+    })
+})
 // router.get('/session-test', (req, res, next) => {
 //     const session = req.session
 //     if (session.viewNum == null) {

@@ -2,7 +2,7 @@
   "name": "easy----koa",
   "version": "1.0.0",
   "description": "koa-mongo-server",
-  "main":"index.js",
+  "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development supervisor index.js",
     "jsdoc": "jsdoc ./src/controllers/**/*.js  -d ./docs/jsdocs",

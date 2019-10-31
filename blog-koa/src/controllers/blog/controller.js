@@ -1,7 +1,6 @@
 
 export default class Blog {
     constructor(args) {
-        super(args)
         this.baseUrl = '/api'
     }
 

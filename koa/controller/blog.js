@@ -1,6 +1,7 @@
 const {exec, escape} = require('./../db/mysql.js')
 const xss = require('xss')
-const getList = async (author,keywords) => {
+const changeUploadPath = require('./../utils/changeUploadPath.js')
+const getList = async (author,keywords,pageSize,pageNum) => {
     //黑科技 1=1
     let sql = `select * from blogs where 1=1`
     if (author) {
@@ -10,7 +11,9 @@ const getList = async (author,keywords) => {
         // keywords = escape(keywords)
         sql += ` and title like '%${keywords}%'`
     }
-    sql+=` and status=1 order by createtime DESC`
+    let offset = (pageNum - 1) * pageSize
+    sql+=` and status=1 order by createtime DESC limit ${offset},${pageSize}`
+
     return await exec(sql)
 }
 
@@ -26,11 +29,21 @@ const getDetail = async (id) => {
 }
 //新建博客创建的id
 const newBlog = async (blogData = {}) => {
-    let {author, title, content} = blogData
+    let {author, title, content,files} = blogData
+    let filesStr = ''
+    if (Array.isArray(files)) {
+        files.forEach((item,index) => {
+            index && (filesStr +=  ",")
+            filesStr +=  changeUploadPath(item.path)
+        })
+    } else {
+        filesStr = changeUploadPath(files.path)
+    }
     title = xss(title)
     content = xss(content)
     const createtime = Date.now()
-    const sql = `insert blogs (title,content,author,createtime) VALUES(${escape(title)},${escape(content)},${escape(author)},${createtime})`
+    const sql = `insert blogs (title,content,author,createtime,files) VALUES(${escape(title)},${escape(content)},${escape(author)},${createtime},'${filesStr}')`
+    console.log(sql)
     const insertData = await exec(sql)
     return {id: insertData.insertId}
     // return  exec(sql).then(insertData => {

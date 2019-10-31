@@ -13,19 +13,20 @@ const check = async (username) => {
     const rows = await exec(sql)
     return rows[0] 
 }
-const register = (username, password) => {
+const register = async (username, password) => {
     username = escape(username)
     password = crypto_password(password)
     password = escape(password)
     const sql = `insert users (username, password) VALUES(${username},${password})`;
-    const checkData = check(username)
+    const checkData = await check(username)
+    console.log(checkData)
     if (checkData) {
         return {
             id: null,
             msg: '用户名已存在'
         }
     }
-    const rows =  exec(sql)
+    const rows =  await exec(sql)
     return {
         id: rows.insertId,
         msg: '注册成功'

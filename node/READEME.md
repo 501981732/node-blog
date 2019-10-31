@@ -37,7 +37,7 @@
 
 - redis 内存数据库 / mysql是硬盘数据库
 - session 访问频繁，对性能要求极高 /可以不考虑断点丢失问题/数据量不会很大 很适合redis
-- redi 链接失败 shttps://stackoverflow.com/questions/41427756/error-redis-connection-to-127-0-0-16379-failed-connect-econnrefused-127-0-0
+- redis 链接失败 shttps://stackoverflow.com/questions/41427756/error-redis-connection-to-127-0-0-16379-failed-connect-econnrefused-127-0-0
 - redis-server 启动
 - redis-cli 
 - keys *
@@ -47,7 +47,7 @@
 
 - 高性能的 Web/反向代理服务器
 - 一般用来做静态服务/负载均衡/反向代理
-    - 测试ngnix  -t  
+    - 测试nginx  -t  
     - 启动nginx; 
     - nginx -s reload;重新载入配置文件
     - 停止nginx -s stop
@@ -55,6 +55,7 @@
 - 解决方案： nginx反向代理
 - 同域联调
 
+```
     server {
         listen 8080;
         server_name localhost;
@@ -66,7 +67,7 @@
             proxy_set_header Host $host;
         }
     }
-
+```
 
 ###日志
 
@@ -109,9 +110,66 @@
 - DDOS攻击 需要硬件或者服务来支持（OP）
 
 
+### 线上环境
 
-- 两端登录/判断登录
-- 两端简历投递
-- 两端分享
-- M端直调
-- 
+- 服务器稳定性
+- 充分利用服务器硬件资源，以便提高性能
+- 线上日志记录
+    - morgan 配置 访问日志access.log
+    - pm2 配置 程序错误日志
+    - pm2 配置 程序中定义日志 out.log
+
+> 利用PM2解决线上问题
+    - 进程守护，系统崩溃自动重启
+    - 启动多进程，充分利用CPU 内存
+        - 多进程中程序内存无法共享 --> redis解决 多个进程访问一个redis
+    - 自带日志记录功能
+
+#### PM2介绍
+- 下载安装 npm install pm2 --save
+    pm2 后台运行的 
+- 常用命令
+    - pm2 start app.js/配置文件  
+    - pm2 list 进程列表
+    - pm2 restart <appname/id> 重启
+    - pm2 stop <appname/id> 停止
+    - pm2 delete <appname/id> 删除
+    - pm2 info <appname/id> 信息
+    - pm2 log <appname/id> 日志
+    - pm2 monit <appname/id> 检测
+
+  
+- 配置信息
+  
+  ```
+  {
+    "apps": {
+        "name": "koa-blog", //程序名字
+        "script": "app.js", //启动文件
+        "watch": true, //是否检测文件变化自动重启
+        "ignore_watch": [ // ignore
+            "node_modules",
+            "logs"
+        ],
+        "instances": "max", //开启多进程  max自动最大核数
+        "error_file": "logs/err.log",// 错误日志
+        "out_file": "logs/out.log", // 程序中console的日志
+        "log_date_format": "YYYY-MM-DD HH:mm:ss", //日志记录时间 格式
+        "exec_mode": "cluster", // 应用程序启动模式 默认 "fork"  "cluster":开启集群模式 生成多个工作线程来共享同一个TCP连接
+      "env": {
+           "NODE_ENV": "production"                // 环境参数，当前指定为生产环境 process.env.NODE_ENV
+        },
+        "env_dev": {
+            "NODE_ENV": "development"              // 环境参数，当前指定为开发环境 pm2 start app.js --env_dev
+        }
+    }
+}
+  ```
+- q: 用pm2启动的话 用process.env.NODE_ENV === 'development'判断环境注册的中间件 未生效
+- 待解决 --> 莫名其妙解决
+
+
+
+
+
+

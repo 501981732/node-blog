@@ -1,10 +1,13 @@
 const router = require('koa-router')()
-
+const {SuccessModel,ErrorModel} = require('./../model/responseModel')
+const {login,register} = require('../controller/user')
 router.prefix('/api/user')
 
 router.post('/login', async (ctx, next) => {
-  const { username, password } = ctx.body
+  console.log(ctx.request.body)
+  const { username, password } = ctx.request.body
   const data = await login(username, password)
+  console.log(data)
   if (data.username) {
       //设置session
       ctx.session.username = data.username
@@ -19,7 +22,7 @@ router.post('/login', async (ctx, next) => {
 });
 
 router.post('/register', async (ctx, next) => {
-  const { username, password } = req.body
+  const { username, password } = ctx.request.body
   const data = await register(username, password)
   if (data.id) {
     ctx.body = new SuccessModel(data.msg)

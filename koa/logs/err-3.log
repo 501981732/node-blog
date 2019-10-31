@@ -1,0 +1,24 @@
+2019-05-21 17:58 +08:00: TypeError: Cannot set property name of  which has only a getter
+    at defaultErrorHanlder (/Users/wangmeng/Desktop/koa/blog/koa/node_modules/koa-generic-session/lib/session.js:523:12)
+    at /Users/wangmeng/Desktop/koa/blog/koa/node_modules/koa-generic-session/lib/session.js:98:13
+    at Generator.throw (<anonymous>)
+    at step (/Users/wangmeng/Desktop/koa/blog/koa/node_modules/koa-generic-session/lib/session.js:3:191)
+    at /Users/wangmeng/Desktop/koa/blog/koa/node_modules/koa-generic-session/lib/session.js:3:402
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+TypeError: connect.connect is not a function
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/blog/koa/db/mysql.js:8:9)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
+    at Object.<anonymous> (/Users/wangmeng/Desktop/koa/blog/koa/controller/blog.js:1:86)
+    at Module._compile (internal/modules/cjs/loader.js:701:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:712:10)
+    at Module.load (internal/modules/cjs/loader.js:600:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:539:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:531:3)
+    at Module.require (internal/modules/cjs/loader.js:637:17)
+    at require (internal/modules/cjs/helpers.js:22:18)
